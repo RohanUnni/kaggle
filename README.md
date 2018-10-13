@@ -1,1 +1,1 @@
-# kaggle
+# kaggle telco churn model
