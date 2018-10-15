@@ -1,1 +1,1 @@
-# kaggle telco churn model
+# Machine learning algorithms on kaggle datasets
